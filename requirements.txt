@@ -40,7 +40,7 @@ accelerate==0.20.3
 transformers==4.30.2 #Help: https://huggingface.co/docs/transformers/v4.20.1/en/installation#installation
 datasets==2.13.0 #Huggingface dataset, Help: https://huggingface.co/docs/datasets/installation
 evaluate==0.4.0 #Huggingface evaluate library, Help: https://huggingface.co/docs/evaluate/index
-peft==0.4.0# #0.4.0 was dev version. In case version is not release. Install using pip install -q git+https://github.com/huggingface/peft.git
+peft==0.4.0 #0.4.0 was dev version. In case version is not release. Install using pip install -q git+https://github.com/huggingface/peft.git
 bitsandbytes==0.39.0
 pytorch==2.0.0
 
